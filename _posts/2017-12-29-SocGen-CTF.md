@@ -215,7 +215,8 @@ Alright folks that's how I did it.
 ![meme time](https://raw.githubusercontent.com/its-arun/its-arun.github.io/master/images/socgen/didit.png)
 
 My methods, terminology and the way to writing this blog post might not be so fancy and technical. But it worked and that's what matters at the end of the day.
-
+```
 Kind Regards
 Arun Chaudhary (felli0t)
+```
 [HackerEarth Profile](https://www.hackerearth.com/@felli0t)
