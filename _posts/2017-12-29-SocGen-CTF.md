@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Write Up]Societe Generale CTF
+title: Societe Generale CTF Write Up
 ---
 
 TODO
